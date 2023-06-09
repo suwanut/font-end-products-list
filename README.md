@@ -13,7 +13,7 @@ Assignment Tests  จัดทำเว็บไซต์แสดงสิน�
 -   Node v18.15.0
 -   Git
 
-## Setup by step
+## คำแนะนำ
  - สร้าง โฟล์เดอร์โปรเจ็ค 
  > `mkdir prd_list`
 - Clone the repo and install the dependencies.
