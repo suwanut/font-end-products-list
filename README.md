@@ -24,7 +24,7 @@ Assignment Tests  จัดทำเว็บไซต์แสดงสิน�
 > `npm install`
 
 โปรเจ็คนี้ใช้ (package.json)
-   {
+  >  `{
   "name": "prd_list",
   "version": "1.0.0",
   "private": true,
@@ -59,7 +59,7 @@ Assignment Tests  จัดทำเว็บไซต์แสดงสิน�
     "eslint-plugin-vue": "^9.5.1",
     "prettier": "^2.7.1"
   }
-}
+}`
 
 - Run project
 > `npm run dev`
